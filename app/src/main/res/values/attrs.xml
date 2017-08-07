@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleSet">
+        <!--设置标题的颜色-->
+        <attr name="MYZT" format="color" />
+        <!--设置标题内容-->
+        <attr name="MYR" format="string" />
+        <!--设置标题大小-->
+        <attr name="mysize" format="integer" />
+        <!--设置图片颜色-->
+        <attr name="photo" format="color"/>
+    </declare-styleable>
+
+</resources>
